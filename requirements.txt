@@ -23,4 +23,3 @@ threadpoolctl
 urllib3
 Werkzeug
 wincertstore
-xgboost
