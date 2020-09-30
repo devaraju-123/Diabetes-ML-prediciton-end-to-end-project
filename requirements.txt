@@ -10,7 +10,6 @@ jsonify
 MarkupSafe
 mkl-fft
 mkl-random
-mkl-service
 mwclient
 numpy
 oauthlib
