@@ -6,7 +6,6 @@ idna
 itsdangerous
 Jinja2
 joblib
-jsonify
 MarkupSafe
 mkl-fft
 mkl-random
@@ -20,6 +19,5 @@ scipy
 six
 sklearn
 threadpoolctl
-urllib3
 Werkzeug
 wincertstore
