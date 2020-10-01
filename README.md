@@ -17,6 +17,6 @@ Machine Learning pip line:
     
 The whole project is deployed on Heroku Cloud.
 
-Here is the link where you can access the project live : https://myml-mtapp.herokuapp.com/
+Here is the link where you can access the project live : https://diabetescheckup.herokuapp.com/
 
 Thank you!
