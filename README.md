@@ -17,6 +17,6 @@ Machine Learning pip line:
     
 The whole project is deployed on Heroku Cloud.
 
-Here is the link where you can access the project live :https://diabeticsapp.herokuapp.com/predict
+Here is the link where you can access the project live :https://diabeticsapp.herokuapp.com
 
 Thank you!
